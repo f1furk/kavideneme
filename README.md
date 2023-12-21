@@ -23,7 +23,8 @@ Projeyi kendi bilgisayarınıza almak ve çalıştırmak için şu adımları ta
 
 bash
 Copy code
-git clone https://github.com/your-username/sesli-asistan-projesi.git
+git clone https://github.com/f1furk/kavideneme
+pip install -r requirements.txt
 cd sesli-asistan-projesi
 python main.py
 Bu kadar basit! Şimdi, sesli asistanımızla etkileşimde bulunabilirsiniz.
